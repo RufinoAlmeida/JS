@@ -1,2 +1,2 @@
 const nome = "hola mundo";
-console.log(nome); // Mostra o comentário na tela.
+console.log(nome); // Mostra o comentario na tela.
